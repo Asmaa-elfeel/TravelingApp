@@ -1,5 +1,7 @@
 # traveling_app
-Hi everyone! this is my project enjoy it
+Hi everyone! this is my project enjoy it.
+![phone_mockup_2](https://github.com/user-attachments/assets/89fcf5e7-24c6-4030-b95c-d97213a3b512)
+
 A new Flutter project.
 
 ## Getting Started
